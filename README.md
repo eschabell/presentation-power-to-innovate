@@ -1,3 +1,3 @@
-Power to Innovate sesssion from 22 Jan 2015 in Utrecht, NL
-----------------------------------------------------------
+Power to Innovate Event
+-----------------------
 ![Cover Slide](https://raw.githubusercontent.com/eschabell/presentation-power-to-innovate/master/cover.png)
